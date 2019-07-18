@@ -12,3 +12,7 @@ To lock the keypad enter '*'.
 Edit the password in the script, defined by an array of characters.
 
 Edit the unlocked and locked function 
+
+
+## Credit
+I do not own the rights to / did not create 'TerminalIO'. All credit goes to it's original creators.
